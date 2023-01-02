@@ -1,4 +1,4 @@
-# Análise Performance de estudantes
+# Análise de Performance de estudantes
 
 Nesse projeto, analiso e tiro conclusões de uma base de dados sobre alunos construída artificialmente.
 
