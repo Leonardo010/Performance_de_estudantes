@@ -11,4 +11,3 @@ Nesse projeto, analiso e tiro conclusões de uma base de dados sobre alunos cons
 ![](https://github.com/Leonardo010/Students_Performance_2/blob/master/imagens/math_score.png#vitrinedev)
 
 ![](https://github.com/Leonardo010/Students_Performance_2/blob/master/imagens/lunch_standard-free.png)
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
